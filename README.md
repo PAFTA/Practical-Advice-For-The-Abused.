@@ -1,8 +1,8 @@
-## We are here to help with your situation. 
+## We Are Here To Help 
 
-You can use the [editor on GitHub](https://github.com/PAFTA/Practical-Advice-For-The-Abused./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Many people feel helpless after going through serial abuse by relatives. We are here to assure you that you are not alone in your terror, and that there is hope for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We offer an hour phone call with our specialized agents who all have gone through the process of breaking free from their abusers. We are not lawyers but our services can help you decide which path is best for you to take based off your situation. 
 
 ### Markdown
 
