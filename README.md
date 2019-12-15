@@ -10,4 +10,11 @@
 
 **It's Simple: Send us an email at: PAFTAguide@gmail.com with the words "Guide Request" in the subject line, to get our free guide right into your inbox!**
 
+
+
+
+
+
+
 All donations help us continue this great work. Thank you.
+
