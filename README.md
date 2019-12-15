@@ -1,40 +1,13 @@
 ## We Are Here To Help 
 
-Many people feel helpless after going through serial abuse by relatives. We are here to assure you that you are not alone in your terror, and that there is hope for you.
+**Many people feel helpless after going through serial abuse by relatives. We are here to assure you that you are not alone in your terror, and that there is hope for you. We have created a simple, step-by-step guide to break away from your abuser.
 
 ### What We Offer
-We offer  an hour phone call with our specialized agents who all have gone through the process of breaking free from their abusers. We are not lawyers but our services can help you decide which path is best for you to take based off your situation. 
 
-### Why We Charge For Our Service
-We charge for our service since we need to be able to provide the best customized advice for those that need it most.
-It also takes time and money to gather these resources for those we serve.
+**We offer a completely free, step-by-step guide on how to effectively disassociate yourself from your abuser.
+
+### **How it works**
+
+**It's Simple: Send us an email at: PAFTAguide@gmail.com with the words "Guide Request" in the subject line, to get our free guide right into your inbox!
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 5
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-       
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PAFTA/Practical-Advice-For-The-Abused./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
