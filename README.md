@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages One
+## We are here to help with your situation. 
 
 You can use the [editor on GitHub](https://github.com/PAFTA/Practical-Advice-For-The-Abused./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
