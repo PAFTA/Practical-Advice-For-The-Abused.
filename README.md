@@ -3,7 +3,7 @@
 Many people feel helpless after going through serial abuse by relatives. We are here to assure you that you are not alone in your terror, and that there is hope for you.
 
 ### What We Offer
-We offer an hour phone call with our specialized agents who all have gone through the process of breaking free from their abusers. We are not lawyers but our services can help you decide which path is best for you to take based off your situation. 
+We offer  an hour phone call with our specialized agents who all have gone through the process of breaking free from their abusers. We are not lawyers but our services can help you decide which path is best for you to take based off your situation. 
 
 ### Why We Charge For Our Service
 We charge for our service since we need to be able to provide the best customized advice for those that need it most.
